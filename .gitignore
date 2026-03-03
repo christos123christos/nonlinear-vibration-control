@@ -1,0 +1,15 @@
+# MATLAB files
+*.m
+*.mat
+
+# LaTeX files
+*.aux
+*.bbl
+*.blg
+*.dvi
+*.log
+*.out
+*.pdf
+*.toc
+*.fls
+*.fdb_latexmk
